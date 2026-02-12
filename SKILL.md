@@ -1,11 +1,10 @@
 ---
 name: gedankenexperiment-method
-description: A structured approach to constructing thought experiments that illuminate
-  abstract concepts, reveal hidden assumptions, and make counterintuitive ideas accessible.
+description: A structured approach to constructing thought experiments that illuminate abstract concepts, reveal hidden assumptions, and make counterintuitive ideas accessible.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - gedankenexperiment-method
 - transformation
