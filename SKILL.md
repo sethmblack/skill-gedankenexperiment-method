@@ -4,7 +4,8 @@ description: A structured approach to constructing thought experiments that illu
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4074
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - gedankenexperiment-method
 - transformation
